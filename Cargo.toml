@@ -1,11 +1,11 @@
 [package]
-name = "xml-rs"
-version = "0.8.19"
-authors = ["Vladimir Matveev <vmatveev@citrine.cc>"]
-license = "MIT"
+name = "xml-rsl"
+version = "0.1.0"
+authors = ["XS <tonycody@qq.com>"]
+license = "Apache-2.0"
 description = "An XML library in pure Rust"
-repository = "https://github.com/kornelski/xml-rs"
-homepage = "https://lib.rs/crates/xml-rs"
+repository = "https://github.com/xs-fork/xml-rs"
+homepage = "https://github.com/xs-fork/xml-rs"
 documentation = "https://docs.rs/xml-rs/"
 readme = "README.md"
 keywords = ["xml", "parser", "sax", "parsing", "writer"]
